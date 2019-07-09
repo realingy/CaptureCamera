@@ -14,7 +14,7 @@
 #include "opencv2/flann/flann.hpp"
 #include "opencv2/calib3d/calib3d.hpp"
 #include "opencv2/objdetect/objdetect.hpp"
-#include "opencv2/legacy/compat.hpp"
+//#include "opencv2/legacy/compat.hpp"
 #include "opencv2/core/core_c.h"
 #include "opencv2/core/core.hpp"
 
